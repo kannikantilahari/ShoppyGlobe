@@ -53,7 +53,7 @@ shoppy-globe/
 git clone 
 
 #Git
-https://github.com/rahulgupta67697/Shoppy-GlobeApp
+https://github.com/kannikantilahari/ShoppyGlobe
 
 # Navigate into the project folder
 cd shoppy-globe
